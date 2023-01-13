@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=20ce034&show_icons=true&theme=radical)
+<!-- ![Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=20ce034&show_icons=true&theme=radical) -->
 <!--
 **20CE034/20CE034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
